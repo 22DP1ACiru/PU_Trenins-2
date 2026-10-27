@@ -1,22 +1,9 @@
 IESILDĪŠANĀS PIRMS PĀRBAUDES DARBA — DT2
 
-Seši Python uzdevumi. Šodien nekas netiek vērtēts.
-
-Tēma: kods, kas palaižas un tomēr dod nepareizu atbildi.
-Tieši to prasa pārbaudes darba pirmais jautājums.
-
-01  izseko kodu un uzmini izvadi, pirms palaid
-02  salauzts cikls — kļūda redzama uzreiz
-03  salauzts krājējs — kļūda nav redzama
-04  salauzts salīdzinājums — kļūda redzama tikai ar dažām ievadēm
+02  salauzts cikls - kļūda redzama uzreiz
+03  salauzts krājējs - kļūda nav redzama
+04  salauzts salīdzinājums - kļūda redzama tikai ar dažām ievadēm
 05  papildini TODO vietu
 06  uzraksti no nulles
 
 Failu palaiž ar IDLE: labais klikšķis uz faila, Edit with IDLE, tad F5.
-
-Uzdevumos 02 un 03 ir viena un tā paša veida kļūda: rinda stāv
-nepareizā vietā attiecībā pret ciklu. Vienā gadījumā programma
-neapstājas vispār, otrā tā mierīgi izvada nepareizu skaitli.
-Otrais ir bīstamākais, jo nekas nebrīdina.
-
-Uzdevums 02 pirms labošanas neapstājas pats. Apturi ar Ctrl+C.
